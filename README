@@ -1,0 +1,9 @@
+B. 	1 8
+	4 8
+	4 8
+	8 8
+
+size of char   (byte),size of pointer that point to the space which store char
+size of int    (byte),size of pointer that point to the space which store int
+size of float  (byte),size of pointer that point to the space which store float
+size of double (byte),size of pointer that point to the space which store double
